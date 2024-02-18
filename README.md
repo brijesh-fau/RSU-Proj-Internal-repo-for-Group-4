@@ -9,6 +9,11 @@ Onxx mode: https://faubox.rrze.uni-erlangen.de/getlink/fiSRB89HXMgJy6ACMsMhnS/mo
 - [ ] Write a common rsu_vi.py file
 - [ ] This file will take three inputs: input_video / images, gpxFile_path, OutputPath
 
+## Bringing SENSATION components together
+[videourl]: https://faubox.rrze.uni-erlangen.de/getlink/fiRoPDKrvkczgrvBRQtMrD/walking_street_video.mp4
+
+Here you can find the street walk video [Click Here][videourl]
+
 ### Road Map:
 1. The user will give us input as a video, image, or camera. GPX file. Output Path
 2. First, If the input are images, we will pass them through our model, then analysis.py which will return an instruction, we will write that instruction on the video and return those images in the output path.
