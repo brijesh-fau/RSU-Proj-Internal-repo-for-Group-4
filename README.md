@@ -21,7 +21,7 @@ I will handle the input video, convert them into frames, pass them through our m
 ### Firoz: Handling Input with Classes:
 You will handle input, what with happen when we get input as images, video, or as camera. Your main task is to handle how these files will go through and how we can use classes effectively.
 
-### Brijesh: Hnadling Frames:
+### Brijesh: Handling Frames:
 You will test the frames of the video images. First, you shoot a small video and convert it into frames. Combine them and set a time elapsed on the video which will run per sec when we play the output video. This will help us to make sure that our frames are passing with each second as we have in the input video. After this, you will work with Antara to write those instructions on the video.
 
 ### Antara: Handling Instructions:
