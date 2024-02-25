@@ -10,7 +10,7 @@ Onxx mode: https://faubox.rrze.uni-erlangen.de/getlink/fiSRB89HXMgJy6ACMsMhnS/mo
 - [ ] This file will take three inputs: input_video / images, gpxFile_path, OutputPath
 
 ## Bringing SENSATION components together
-[videourl]: https://faubox.rrze.uni-erlangen.de/getlink/fiRoPDKrvkczgrvBRQtMrD/walking_street_video.mp4
+[videourl]: https://faubox.rrze.uni-erlangen.de/getlink/fi2jjyZMAsSy5NwCPkczft/Street%20Walk.mp4
 
 Here you can find the street walk video [Click Here][videourl]
 
